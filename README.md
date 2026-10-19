@@ -48,6 +48,3 @@ Check `.env.example` and the project documentation for any additional configurat
 
 Quantier is intended for educational purposes, research, and simulated trading. It does not provide financial advice.
 
-## Acknowledgements
-
-This project builds on [AI-Trader](https://github.com/Acceleratorer/AI-Trader). Please refer to the original project for its license and attribution requirements.
